@@ -15,3 +15,4 @@
 	*	Github VSH2 verkefni
 
 ####samstarf vsh22 + vsh24
+# vsh_gitverkefni
